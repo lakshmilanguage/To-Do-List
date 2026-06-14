@@ -1,4 +1,4 @@
-# To-Do List Application (Python)
+# 📝 To-Do List Application (Python)
 
 ## 📌 Project Description
 This is a simple To-Do List application developed using Python.  
@@ -21,6 +21,7 @@ README.md
 ```
 
 ## ▶️ How to Run
+
 1. Install Python
 2. Open terminal / command prompt
 3. Navigate to project folder
@@ -65,6 +66,3 @@ Task Added Successfully
 - Edit existing tasks
 - Add due dates
 - GUI version using Tkinter
-
-## 👩‍💻 Author
-Surekha Lenka
