@@ -21,7 +21,6 @@ README.md
 ```
 
 ## ▶️ How to Run
-
 1. Install Python
 2. Open terminal / command prompt
 3. Navigate to project folder
